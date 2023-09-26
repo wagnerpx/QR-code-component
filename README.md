@@ -29,8 +29,8 @@ Projeto feito para ser utilizado em telas de desktop e outra para telas de celul
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-9LXePI-_04)
+- Live Site URL: [Live site URL](https://wagnerpx.github.io/QR-code-component/)
 
 
 
